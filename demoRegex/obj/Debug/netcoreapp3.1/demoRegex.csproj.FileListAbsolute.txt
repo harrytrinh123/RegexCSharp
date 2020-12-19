@@ -1,0 +1,15 @@
+E:\.NET\WINFORM\demoRegex\demoRegex\bin\Debug\netcoreapp3.1\demoRegex.exe
+E:\.NET\WINFORM\demoRegex\demoRegex\bin\Debug\netcoreapp3.1\demoRegex.deps.json
+E:\.NET\WINFORM\demoRegex\demoRegex\bin\Debug\netcoreapp3.1\demoRegex.runtimeconfig.json
+E:\.NET\WINFORM\demoRegex\demoRegex\bin\Debug\netcoreapp3.1\demoRegex.runtimeconfig.dev.json
+E:\.NET\WINFORM\demoRegex\demoRegex\bin\Debug\netcoreapp3.1\demoRegex.dll
+E:\.NET\WINFORM\demoRegex\demoRegex\bin\Debug\netcoreapp3.1\demoRegex.pdb
+E:\.NET\WINFORM\demoRegex\demoRegex\obj\Debug\netcoreapp3.1\demoRegex.csprojAssemblyReference.cache
+E:\.NET\WINFORM\demoRegex\demoRegex\obj\Debug\netcoreapp3.1\demoRegex.Form1.resources
+E:\.NET\WINFORM\demoRegex\demoRegex\obj\Debug\netcoreapp3.1\demoRegex.csproj.GenerateResource.cache
+E:\.NET\WINFORM\demoRegex\demoRegex\obj\Debug\netcoreapp3.1\demoRegex.AssemblyInfoInputs.cache
+E:\.NET\WINFORM\demoRegex\demoRegex\obj\Debug\netcoreapp3.1\demoRegex.AssemblyInfo.cs
+E:\.NET\WINFORM\demoRegex\demoRegex\obj\Debug\netcoreapp3.1\demoRegex.csproj.CoreCompileInputs.cache
+E:\.NET\WINFORM\demoRegex\demoRegex\obj\Debug\netcoreapp3.1\demoRegex.dll
+E:\.NET\WINFORM\demoRegex\demoRegex\obj\Debug\netcoreapp3.1\demoRegex.pdb
+E:\.NET\WINFORM\demoRegex\demoRegex\obj\Debug\netcoreapp3.1\demoRegex.genruntimeconfig.cache
